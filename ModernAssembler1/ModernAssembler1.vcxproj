@@ -22,7 +22,7 @@
     <MASM Include="main.asm" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="junk.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

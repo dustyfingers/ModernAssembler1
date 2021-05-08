@@ -1,6 +1,9 @@
 .code
-main proc
-	mov rax, 123
+SomeFunction proc
+	push rbx
+	mov bx, 29
+	mox bh, 67
+	pop rbx
 	ret
-main endp
+SomeFunction endp
 end

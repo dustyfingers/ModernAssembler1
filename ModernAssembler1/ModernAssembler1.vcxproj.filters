@@ -20,7 +20,7 @@
     </MASM>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="junk.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
